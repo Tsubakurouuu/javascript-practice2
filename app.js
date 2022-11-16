@@ -1,7 +1,6 @@
-$(document).ready(function () {
-  // jQueryプログラムの内容
-});
-
 $(function(){
-  // jQueryプログラムの内容
+  $('.box1').css({
+    'background-color': '#0000FF',
+    'height': '100px'
+  });
 });
